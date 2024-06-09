@@ -2,3 +2,4 @@
 app/*.pyc
 *.pyc
 /jupyter/
+app/*/output/*

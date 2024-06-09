@@ -1,59 +1,46 @@
 Noah Smith
-[Address]
-[City, State, Zip Code]
-[Email Address]
-[Phone Number]
+123 Engineering Avenue, City, State, ZIP Code
+(555) 123-4567
+noah.smith@email.com
 
 Summary:
-Accomplished Software Engineering Leader with 18 years of experience specializing in managing remote and in-office teams. Strong background in AI and data science with a focus on innovation and growth. Proven ability to drive tech initiatives and startups to success. Seeking a leadership role in a fast-paced, collaborative environment that values strategic thinking and problem-solving skills.
+Accomplished Software Engineering Leader with 18 years of experience in managing remote and in-office teams. Expertise in multiple programming languages, AI, and data science. MBA holder with a strong background in tech innovation and startups.
 
 Skills:
-- Proficient in Python, Java, C++
-- Strong technical skills in software development, machine learning, and AI
-- Experienced in managing remote and in-office teams
-- Strategic thinker with a focus on innovation and growth
-- Familiarity with cloud computing platforms such as AWS and Azure
-- Experience with data analysis and visualization tools
+- Proficiency in multiple programming languages and frameworks
+- Strong background in AI and data science
+- Software engineering leadership
+- Remote and in-office team management
+- Proficiency in CAD software for design and drafting
+- Strong problem-solving abilities to troubleshoot technical issues
+- Excellent communication skills for collaboration with cross-functional teams
+- Knowledge of industry standards and regulations for compliance
+- Ability to manage multiple projects simultaneously and prioritize tasks effectively
 
-Work Experience:
+Experience:
 Software Engineering Leader
-Tech Company XYZ
-[Dates]
-- Led major tech initiatives and startups, driving innovation and growth in the tech industry
-- Managed remote and in-office teams to successfully implement complex systems
-- Developed and implemented best practices in software engineering and AI development
-- Utilized programming languages such as Python, Java, and C++ to design and optimize systems
-- Collaborated with team members to problem solve and streamline development processes
+Tech Company XYZ, City, State
+- Managed remote and in-office teams to drive innovation and growth
+- Led major tech initiatives and startups, showcasing leadership skills
+- Implemented AI and data science solutions to improve company operations
+- Collaborated with cross-functional teams to achieve project goals
 
-Project Experiences:
-1. Machine Learning Algorithms Repository
-- Developed a comprehensive collection of machine learning algorithms in Python and Java
-- Demonstrated proficiency in AI and data science through the implementation of various algorithms
-2. Web Development Framework
-- Designed an innovative web development framework using Python and JavaScript
-- Streamlined the process of building dynamic and interactive websites for improved user experience
-3. Mobile App Development Project
-- Led a mobile application project focusing on performance optimization in a fast-paced environment
-- Managed tech initiatives and startups to drive innovation and growth in the mobile app industry
-4. Collaborative Coding Platform
-- Created a platform for collaborative coding and code review in a remote team setting
-- Showcased leadership abilities in leading remote and in-office teams effectively
+Mechanical Engineer
+Engineering Firm ABC, City, State
+- Contributed to product development and improvement projects
+- Conducted testing and validation processes to ensure product quality
+- Implemented cost reduction initiatives and efficiency improvements
+- Collaborated with suppliers and vendors for component sourcing and quality control
 
 Education:
-Master of Business Administration
-[University Name], [Graduation Year]
+Bachelor's Degree in Mechanical Engineering
+University of Engineering, City, State
+- Specialization in product design and development
+- Courses in FEA and CFD simulations
+- Projects focused on lean manufacturing principles and continuous improvement methodologies
 
-Bachelor of Science in Engineering
-[University Name], [Graduation Year]
+Certifications:
+Professional Engineer (PE) License - In Progress
+- Continuing education in project management tools and industry standards
 
-Interests:
-- Innovation and growth in the tech industry
-- Strategic leadership roles
-- Collaborative coding and code review platforms
-
-Communication Style:
-- Strategic and innovative approach to problem-solving
-- Effective leader in remote and in-office team settings
-- Proven ability to drive tech initiatives and startups to success
-
-References available upon request.
+Overall, Noah Smith is a versatile candidate with a strong foundation in software engineering leadership and mechanical engineering principles. His diverse skill set and experiences make him a valuable asset for any engineering position, showcasing a blend of technical expertise, leadership abilities, and project management skills.

@@ -103,8 +103,9 @@ def run_agents(app_folder):
         
     openai_api_key = get_openai_api_key()
     os.environ["OPENAI_MODEL_NAME"] = 'gpt-3.5-turbo' 
-
+    print("input data file => "+app_folder+"input.json")
     input_data = load_data_from_file(app_folder+'input.json')
+    print("input data => "+str(input_data))
     agents_json_file_path = app_folder + input_data["agents_json_file"]
     inputs = input_data["inputs"] #{"topic": "How Artificial Intelligence helps in field of bio chemistry"}
     print("agents_json_file_path => "+agents_json_file_path)
@@ -158,7 +159,3 @@ def run_agents(app_folder):
     
     result = crew.kickoff(inputs=inputs)
 
-
-if __name__ == "__main__":
-    app_folder = './app/job_application/'
-    run_agents(app_folder)
