@@ -9,31 +9,6 @@ import importlib
 from llms import llms_instances
 
 
-# class AgentIO:
-#     def __init__(self, name, role, goal, backstory):
-#         self.name = name
-#         self.role = role
-#         self.goal = goal
-#         self.backstory = backstory
-#         self.properties = {}
-
-#     def set_property(self, key, value):
-#         if value:  # Only set properties that have non-empty values
-#             self.properties[key] = value
-
-# class TaskIO:
-#     def __init__(self, name, description, expected_output, agent):
-#         self.name = name
-#         self.description = description
-#         self.expected_output = expected_output
-#         self.agent = agent
-#         self.properties = {}
-
-#     def set_property(self, key, value):
-#         if value:
-#             self.properties[key] = value
-
-
 def load_data_from_file(filename):
     file_exists = os.path.isfile(filename)
     if(file_exists):

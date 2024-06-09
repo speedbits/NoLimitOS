@@ -7,3 +7,10 @@ NoLimitOS, built upon the Crew AI Agentic system, introduces a powerful and intu
 3. **Simplified Application Development**: Empower business users and non-programmers to create Crew AI-based applications with ease.
 
 With NoLimitOS, the complexities of AI management are streamlined, making advanced AI capabilities accessible to a broader audience.
+
+### Installation
+1. Clone the repository
+2. cd (change directory) to the folder 'nolimitos'
+3. Run the following command to install all pre-requisite libraries
+pip install -r requirements.txt
+4. Create a .env file 
