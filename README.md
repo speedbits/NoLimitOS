@@ -10,7 +10,8 @@ With NoLimitOS, the complexities of AI management are streamlined, making advanc
 
 ### Installation
 1. Clone the repository
-2. cd (change directory) to the folder 'nolimitos'
-3. Run the following command to install all pre-requisite libraries
-pip install -r requirements.txt
-4. Create a .env file 
+2. `cd` (change directory) to the folder `nolimitos`
+3. Run the following command to install all pre-requisite libraries:
+   ```sh
+   pip install -r requirements.txt
+4. Update the .env-sample file with the tokens/keys and rename it to `.env`
