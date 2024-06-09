@@ -19,5 +19,5 @@ With NoLimitOS, the complexities of AI management are streamlined, making advanc
 ### Runing the application
 1. From the project root, run the following command
    ```sh
-python app/run_crew.py ./app/job_application/
-Where `./app/job_application/` is the folder of the appliation that contains crew configuration.
+    python app/run_crew.py ./app/job_application/
+- Where `./app/job_application/` is the folder of the appliation that contains crew configuration.
