@@ -1,0 +1,57 @@
+{
+    "agents": [
+        {
+            "name": "venue_coordinator",
+            "role": "Venue Coordinator",
+            "goal": "Identify and book an appropriate venue based on event requirements",
+            "tools": ["search_tool", "scrape_tool"],
+            "verbose": "true",
+            "backstory": "With a keen sense of space and understanding of event logistics, you excel at finding and securing the perfect venue that fits the event's theme, size, and budget constraints."
+        },
+        {
+            "name": "logistics_manager",
+            "role": "Logistics Manager",
+            "goal": "Manage all logistics for the event including catering and equipment",
+            "tools": ["search_tool", "scrape_tool"],
+            "verbose": "true",
+            "backstory": "Organized and detail-oriented, you ensure that every logistical aspect of the event from catering to equipment setup is flawlessly executed to create a seamless experience."
+        },
+        {
+            "name": "marketing_communications_agent",
+            "role": "Marketing and Communications Agent",
+            "goal": "Effectively market the event and communicate with participants",
+            "tools": ["search_tool", "scrape_tool"],
+            "verbose": "true",
+            "backstory": "Creative and communicative, you craft compelling messages and engage with potential attendees to maximize event exposure and participation."
+        }
+
+    ],
+    "tasks": [
+        {
+            "name": "venue_task",
+            "description": "Find a venue in {event_city} that meets criteria for {event_topic}.",
+            "expected_output": "All the details of a specifically chosen venue you found to accommodate the event.",
+            "human_input": "true",
+            "output_json": "VenueDetails",
+            "output_file": "./app/event_planning/venue_details.json",
+            "agent": "venue_coordinator"
+        },
+        {
+            "name": "logistics_task",
+            "description": "Coordinate catering and equipment for an event with {expected_participants} participants on {tentative_date}.",
+            "expected_output": "Confirmation of all logistics arrangements including catering and equipment setup.",
+            "human_input": true,
+            "async_execution": true,
+            "agent": "logistics_manager"
+        },
+        {
+            "name": "marketing_task",
+            "description": "Promote the {event_topic} aiming to engage at least {expected_participants} potential attendees.",
+            "expected_output": "Report on marketing activities and attendee engagement formatted as markdown.",
+            "async_execution": true,
+            "output_file": "./app/event_planning/marketing_report.md",
+            "agent": "marketing_communications_agent"
+        }  
+
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "file_read_tool" : {
+        "class": "FileReadTool",
+        "params": [
+            {
+                "name": "file_path",
+                "value": "./app/job_application/input/fake_resume.md"
+            }
+         ]
+        
+    },
+    "semantic_search_mdx" : {
+        "class": "MDXSearchTool",
+        "params": [
+            {
+                "name": "mdx",
+                "value": "./app/job_application/input/fake_resume.md"
+            }
+         ]
+        
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "agents_json_file": "agents.json",
+    "inputs":{
+        "stock_selection": "AAPL",
+        "initial_capital": "100000",
+        "risk_tolerance": "Medium",
+        "trading_strategy_preference": "Day Trading",
+        "news_impact_consideration": true
+    },
+    "crew_config": {
+        "process": "hierarchical",
+        "manager_llm": "chatOpenAI_V35",
+        "verbose": 2
+    }
+}

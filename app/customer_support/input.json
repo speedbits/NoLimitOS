@@ -1,0 +1,8 @@
+{
+    "agents_json_file": "agents.json",
+    "inputs": {
+        "customer": "DeepLearningAI",
+        "person": "Andrew Ng",
+        "inquiry": "I need help with setting up a Crew and kicking it off, specifically how can I add memory to my crew? Can you provide guidance?"
+    }
+}

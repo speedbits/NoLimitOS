@@ -1,0 +1,13 @@
+{
+    "agents_json_file": "agents.json",
+    "inputs": {
+        "lead_name": "DeepLearningAI",
+        "industry": "Online Learning Platform",
+        "key_decision_maker": "Andrew Ng",
+        "position": "CEO",
+        "milestone": "product launch"
+    },
+    "crew_config": {
+        "memory": "true"
+    }
+}

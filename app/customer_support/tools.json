@@ -1,0 +1,12 @@
+{
+    "docs_scrape_tool" : {
+        "class": "ScrapeWebsiteTool",
+        "params": [
+            {
+                "name": "website_url",
+                "value": "https://docs.crewai.com/how-to/Creating-a-Crew-and-kick-it-off/"
+            }
+         ]
+        
+    }
+}
