@@ -1,4 +1,4 @@
-## NoLimitOS: Unlocking the Full Potential of Crew AI
+## NoLimitOS: Simplifying and unlocking the Potential of Crew AI
 
 NoLimitOS, built upon the Crew AI Agentic system, introduces a powerful and intuitive way to manage AI agents and tasks through JSON configuration files. This innovative approach brings several possibilities to the Crew AI platform, including:
 
