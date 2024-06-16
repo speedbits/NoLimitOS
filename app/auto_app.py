@@ -99,15 +99,20 @@ def create_agents_and_tasks(app_folder, agents_json_file):
     return agents_dict, tasks_dict
 
 
-def run_agents(app_folder):
+def run_agents(app_folder, my_inputs=None):
         
     openai_api_key = get_openai_api_key()
     os.environ["OPENAI_MODEL_NAME"] = 'gpt-3.5-turbo' 
-    print("input data file => "+app_folder+"input.json")
+    
     input_data = load_data_from_file(app_folder+'input.json')
     print("input data => "+str(input_data))
+    if(my_inputs == None):
+        print("input data file => "+app_folder+"input.json")
+        inputs = input_data["inputs"] #{"topic": "How Artificial Intelligence helps in field of bio chemistry"}
+    else:
+        inputs = my_inputs
+
     agents_json_file_path = app_folder + input_data["agents_json_file"]
-    inputs = input_data["inputs"] #{"topic": "How Artificial Intelligence helps in field of bio chemistry"}
     print("agents_json_file_path => "+agents_json_file_path)
 
     # Use the function to load data and create objects
@@ -158,4 +163,5 @@ def run_agents(app_folder):
     )
     
     result = crew.kickoff(inputs=inputs)
+    return result
 
