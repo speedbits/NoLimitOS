@@ -4,7 +4,7 @@
         "params": [
             {
                 "name": "file_path",
-                "value": "./app/job_application/input/fake_resume.md"
+                "value": "./app/job_application/input/resume001.md"
             }
          ]
         
@@ -14,7 +14,7 @@
         "params": [
             {
                 "name": "mdx",
-                "value": "./app/job_application/input/fake_resume.md"
+                "value": "./app/job_application/input/resume001.md"
             }
          ]
         

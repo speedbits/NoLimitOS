@@ -1,0 +1,8 @@
+{
+    "agents_json_file": "agents.json",
+    "inputs": {
+        "customer": "Oxford 48 investments LLC",
+        "person": "Srikanth Gali",
+        "inquiry": "I need help with researching the upcoming realestate development and growth along the US Highway 15, in Oxford, North Carolina."
+    }
+}

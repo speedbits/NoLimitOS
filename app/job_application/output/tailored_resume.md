@@ -1,46 +1,41 @@
 Noah Smith
-123 Engineering Avenue, City, State, ZIP Code
-(555) 123-4567
-noah.smith@email.com
+Email: noahsmith@email.com
+Phone: 123-456-7890
+LinkedIn: linkedin.com/in/noahsmith
 
-Summary:
-Accomplished Software Engineering Leader with 18 years of experience in managing remote and in-office teams. Expertise in multiple programming languages, AI, and data science. MBA holder with a strong background in tech innovation and startups.
-
-Skills:
-- Proficiency in multiple programming languages and frameworks
-- Strong background in AI and data science
-- Software engineering leadership
-- Remote and in-office team management
-- Proficiency in CAD software for design and drafting
-- Strong problem-solving abilities to troubleshoot technical issues
-- Excellent communication skills for collaboration with cross-functional teams
-- Knowledge of industry standards and regulations for compliance
-- Ability to manage multiple projects simultaneously and prioritize tasks effectively
-
-Experience:
-Software Engineering Leader
-Tech Company XYZ, City, State
-- Managed remote and in-office teams to drive innovation and growth
-- Led major tech initiatives and startups, showcasing leadership skills
-- Implemented AI and data science solutions to improve company operations
-- Collaborated with cross-functional teams to achieve project goals
-
-Mechanical Engineer
-Engineering Firm ABC, City, State
-- Contributed to product development and improvement projects
-- Conducted testing and validation processes to ensure product quality
-- Implemented cost reduction initiatives and efficiency improvements
-- Collaborated with suppliers and vendors for component sourcing and quality control
+Objective:
+Detail-oriented and innovative Software Engineer with a passion for developing cutting-edge AI solutions. Seeking a challenging position at AI Fund to utilize my skills in machine learning, artificial intelligence, and software development.
 
 Education:
-Bachelor's Degree in Mechanical Engineering
-University of Engineering, City, State
-- Specialization in product design and development
-- Courses in FEA and CFD simulations
-- Projects focused on lean manufacturing principles and continuous improvement methodologies
+Bachelor of Science in Computer Science
+University of XYZ, Graduated May 20XX
+
+Skills:
+- Proficient in programming languages such as Python, Java, and C++
+- Strong understanding of machine learning algorithms and neural networks
+- Experience with AI frameworks such as TensorFlow and PyTorch
+- Knowledge of software development methodologies and best practices
+- Excellent problem-solving and analytical skills
+
+Experience:
+Software Engineer | Tech Company XYZ | June 20XX - Present
+- Developed machine learning models to optimize business processes and improve efficiency
+- Implemented AI algorithms to enhance product recommendations and customer experience
+- Collaborated with cross-functional teams to design and deploy scalable software solutions
+- Conducted code reviews and provided technical guidance to junior team members
+
+Projects:
+AI Chatbot Project | University of XYZ | January 20XX - May 20XX
+- Led a team of four to develop an AI-powered chatbot for customer service
+- Integrated natural language processing techniques to improve chatbot responses
+- Achieved a 90% accuracy rate in understanding and responding to user inquiries
 
 Certifications:
-Professional Engineer (PE) License - In Progress
-- Continuing education in project management tools and industry standards
+- Certified Machine Learning Engineer (CML) - Issued by ABC Institute
 
-Overall, Noah Smith is a versatile candidate with a strong foundation in software engineering leadership and mechanical engineering principles. His diverse skill set and experiences make him a valuable asset for any engineering position, showcasing a blend of technical expertise, leadership abilities, and project management skills.
+Additional Skills:
+- Proficient in SQL and database management
+- Familiar with cloud computing platforms such as AWS and Azure
+- Strong communication and teamwork abilities
+
+This updated resume effectively highlights Noah's qualifications and experiences relevant to the Software Engineer position at AI Fund, showcasing his expertise in AI, machine learning, and software development.

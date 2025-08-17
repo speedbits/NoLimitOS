@@ -51,7 +51,7 @@
             "name": "resume_strategy_task",
             "description": "Using the profile and job requirements obtained from previous tasks, tailor the resume to highlight the most relevant areas. Employ tools to adjust and enhance the resume content. Make sure this is the best resume even but don't make up any information. Update every section, including the initial summary, work experience, skills, and education. All to better reflect the candidates abilities and how it matches the job posting.",
             "expected_output": "An updated resume that effectively highlights the candidate's qualifications and experiences relevant to the job.",
-            "output_file": "./app/job_application/output/tailored_resume.md",
+            "output_file": "./app/job_application/output/tailored_resume001.md",
             "context": ["research_task", "profile_task"],
             "agent": "resume_strategist"
         },
@@ -59,7 +59,7 @@
             "name": "interview_preparation_task",
             "description": "Create a set of potential interview questions and talking points based on the tailored resume and job requirements. Utilize tools to generate relevant questions and discussion points. Make sure to use these question and talking points to help the candidate highlight the main points of the resume and how it matches the job posting.",
             "expected_output": "A document containing key questions and talking points that the candidate should prepare for the initial interview.",
-            "output_file": "./app/job_application/output/interview_materials.md",
+            "output_file": "./app/job_application/output/interview_materials_001.md",
             "context": ["research_task", "profile_task", "resume_strategy_task"],
             "agent": "interview_preparer"
         } 
